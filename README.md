@@ -1,3 +1,7 @@
+# Useing OpenWeatherMap API
+
+Iam useing the Current Weather Data [API doc](https://openweathermap.org/current).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
